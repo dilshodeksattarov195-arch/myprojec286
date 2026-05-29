@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsdonnect",
+        "uuid": 2398968,
+        "checksum": "pc48nq"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
